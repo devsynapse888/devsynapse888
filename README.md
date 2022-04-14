@@ -8,7 +8,7 @@
 <div align="center">
 	<hr>
 		<div align="left">
-		Experienced Senior Software Engineer with over 5 years of expertise in JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL. Proficient in developing scalable web applications and corporate e-commerce solutions, with hands-on experience in banking payment systems. Demonstrated ability to design and implement cost-effective serverless and microservices architectures for enhanced reliability. Additionally, I provide freelancing services, delivering high-quality software solutions. Committed to continuous learning and professional growth in the ever-evolving field of software development.
+		Experienced Senior Software Engineer with over 8 years of expertise in JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL. Proficient in developing scalable web applications and corporate e-commerce solutions, with hands-on experience in banking payment systems. Demonstrated ability to design and implement cost-effective serverless and microservices architectures for enhanced reliability. Additionally, I provide freelancing services, delivering high-quality software solutions. Committed to continuous learning and professional growth in the ever-evolving field of software development.
 		</div>
 	<hr>
 	<!-- 🌐 Portfolio: [myportfolio.io](https://myportfolio.io)
